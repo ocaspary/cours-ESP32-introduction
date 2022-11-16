@@ -4,7 +4,7 @@ Avant de commencer à programmer un microcontrôleur, la première chose à fair
 
 {% embed url="https://www.espressif.com/en" %}
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Définissez sur quelle carte vous travaillez en remplissant les champs suivants, par exemple :
 
@@ -80,4 +80,4 @@ ou bien la documentation du fabricant de l’ESP32. La _"_consommation" mémoire
 
 _**Photo du microcontrôleur NodeMCU ESP32 (version 30 broches) :**_
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -16,7 +16,7 @@ Ensuite, trouvez le schéma « pinout » de votre microcontrôleur afin de faire
 
 _**Exemple de schéma « pinout » pour l’ESP-WROOM-32 Module du NodeMCU :**_
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 2 LED : une LED rouge pour l'alimentation et une LED bleue accessible via GPIO2.
 
@@ -68,7 +68,7 @@ _**ESP32 Pinout Reference du modèle NodeMCU utilisé (lien à conserver !!!) :*
 
 &#x20;_ **Tableau des consommations par modes (datasheet ESP32) :**_
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 La consommation électrique est très réduite, en alimentant le circuit avec un pack de 2 piles AA 2500 mAh par exemple, on a environ un peu moins de 7h d'autonomie en émission continue à puissance maximale, 60 jours en veille avec les modules radio actifs, et environ 80 ans en hibernation ! Bien évidemment, à faible consommation électrique l'autonomie sera surtout définie par l'autodécharge des accumulateurs.
 
@@ -80,4 +80,4 @@ ou bien la documentation du fabricant de l’ESP32. La _"_consommation" mémoire
 
 _**Photo du microcontrôleur NodeMCU ESP32 (version 30 broches) :**_
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
